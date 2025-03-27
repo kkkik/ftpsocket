@@ -1,5 +1,3 @@
-#ftpsocket: FTP using socket.
-<img src="https://static.pepy.tech/badge/ftpsocket" height="30" /> <img src="https://static.pepy.tech/badge/ftpsocket/month" height="30" />
 
 #ftpsocket: SOCKET-FTP
 
